@@ -23,8 +23,24 @@ Focused on clean code, modern frameworks, and delivering impactful projects.
 
 ### Certifications & Badges
 
-[![GitHub Copilot Badge](https://learn.microsoft.com/training/achievements/generic-badge.svg)](https://learn.microsoft.com/api/achievements/share/en-us/Kanyoro-7177/7KY92VDZ?sharingId=2701D08453C419EF)  
-**Accelerate app development using GitHub Copilot tools**
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/Kanyoro-7177/7KY92VDZ?sharingId=2701D08453C419EF">
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Accelerate app development using GitHub Copilot tools
+    </td>
+    <td align="center" width="200">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/Kanyoro-7177/FM8WEFBX?sharingId=2701D08453C419EF">
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Build a minigame with GitHub Copilot and Python
+    </td>
+  </tr>
+</table>
 
 ---
 
