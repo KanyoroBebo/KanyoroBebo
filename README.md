@@ -37,12 +37,19 @@ Focused on clean code, modern frameworks, and delivering impactful projects.
       <br/>
       Build a minigame with GitHub Copilot and Python
     </td>
-        <td align="center" width="200">
+    <td align="center" width="200">
       <a href="https://learn.microsoft.com/api/achievements/share/en-us/Kanyoro-7177/ZBAE7NK2?sharingId=2701D08453C419EF">
         <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
       </a>
       <br/>
       Build auto suggest engine with Copilot
+    </td>
+    <td align="center" width="200">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/Kanyoro-7177/URCF7E23?sharingId=2701D08453C419EF">
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Build a minigame with GitHub Copilot and .NET
     </td>
   </tr>
 </table>
