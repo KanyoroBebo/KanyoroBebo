@@ -51,6 +51,13 @@ Focused on clean code, modern frameworks, and delivering impactful projects.
       <br/>
       Build a minigame with GitHub Copilot and .NET
     </td>
+      <td align="center" width="200">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/Kanyoro-7177/9Y64G3KU?sharingId=2701D08453C419EF">
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Building applications with GitHub Copilot agent mode
+    </td>
   </tr>
 </table>
 
