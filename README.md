@@ -24,6 +24,13 @@ Focused on clean code, modern frameworks, and delivering impactful projects.
 <table align="center">
   <tr>
     <td align="center" width="200">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/Kanyoro-7177/8Z3T98UW?sharingId=2701D08453C419EF">
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Introduction to GitHub Copilot
+    </td>
+    <td align="center" width="200">
       <a href="https://learn.microsoft.com/api/achievements/share/en-us/Kanyoro-7177/7KY92VDZ?sharingId=2701D08453C419EF">
         <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
       </a>
@@ -56,7 +63,28 @@ Focused on clean code, modern frameworks, and delivering impactful projects.
         <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
       </a>
       <br/>
-      Building applications with GitHub Copilot agent mode
+      Building applications with GitHub Copilot
+    </td>
+    <td align="center" width="200">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/Kanyoro-7177/9Y6KYFJU?sharingId=2701D08453C419EF">
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Challenge GitHub Copilot with SQL
+    </td>
+    <td align="center" width="200">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/Kanyoro-7177/ZBA3HYQ2?sharingId=2701D08453C419EF">
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Introduction to vibe coding
+    </td>
+    <td align="center" width="200">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/Kanyoro-7177/4GEYVC7K?sharingId=2701D08453C419EF">
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Responsible AI with GitHub Copilot
     </td>
   </tr>
 </table>
