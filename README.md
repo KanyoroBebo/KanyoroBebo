@@ -20,7 +20,7 @@ Focused on clean code, modern frameworks, and delivering impactful projects.
 ---
 
 ## Certifications and Badges
-### GitHub Copilot Learning Path — Certifications & Badges
+### GitHub Copilot Learning Path
 
 <table align="center">
   <tr>
