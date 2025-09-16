@@ -52,13 +52,22 @@ Focused on clean code, modern frameworks, and delivering impactful projects.
       Build auto suggest engine with Copilot
     </td>
     <td align="center" width="200">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/Kanyoro-7177/ZBAY7GH2?sharingId=2701D08453C419EF">
+        <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
+      </a>
+      <br/>
+      Introduction to prompt engineering
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
       <a href="https://learn.microsoft.com/api/achievements/share/en-us/Kanyoro-7177/URCF7E23?sharingId=2701D08453C419EF">
         <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
       </a>
       <br/>
       Build a minigame with GitHub Copilot and .NET
     </td>
-      <td align="center" width="200">
+    <td align="center" width="200">
       <a href="https://learn.microsoft.com/api/achievements/share/en-us/Kanyoro-7177/9Y64G3KU?sharingId=2701D08453C419EF">
         <img src="https://learn.microsoft.com/training/achievements/generic-badge.svg" width="100"/>
       </a>
@@ -86,7 +95,10 @@ Focused on clean code, modern frameworks, and delivering impactful projects.
       <br/>
       Responsible AI with GitHub Copilot
     </td>
+    
   </tr>
+
+
 </table>
 
 ---
