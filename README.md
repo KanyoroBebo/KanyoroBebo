@@ -1,29 +1,78 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hi+👋;I'm+Kevin+Kanyoro;Full-Stack+Developer)
-
-
----
-
-I’m a full-stack developer passionate about building scalable web applications and crafting efficient solutions.  
-Focused on clean code, modern frameworks, and delivering impactful projects. 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=007BFF&center=true&vCenter=true&width=600&lines=Hi+👋;I'm+Kevin+Kanyoro;Full-Stack+Developer)
 
 ---
 
-### Tech Stack
+I’m a full-stack developer who enjoys turning ideas into functional, elegant solutions.  
+I love exploring how technology can make everyday experiences simpler and smarter.  
+With a passion for clean architecture and scalable design, I focus on building web applications that are efficient, reliable, and intuitive to use.  
+
+---
+
+## Tech Stack
+
+#### Languages & Frameworks
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
+</p>
+
+#### Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+---
+
+### Currently Learning
+- **Artificial Intelligence & Machine Learning (AI/ML):**  
+  Diving deeper into intelligent systems, exploring how models learn, predict, and make decisions.  
+  I’m especially interested in practical applications that combine creativity with automation.
+
+- **Cloud Computing:**  
+  Building and deploying scalable, cloud-native applications that balance performance, reliability, and cost.  
+  Learning how modern infrastructure shapes the way we develop, collaborate, and innovate.
+
+---
+
+### GitHub Stats & Contributions
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=KanyoroBebo&label=Profile%20views&color=0e75b6&style=flat" alt="Kevin Kanyoro" /> 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KanyoroBebo&show_icons=true&theme=tokyonight&hide_border=true" alt="Kevin's GitHub stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanyoroBebo&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanyoroBebo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KanyoroBebo/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KanyoroBebo&theme=algolia&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Profile Trophy" />
+  </a>
 </p>
 
 ---
