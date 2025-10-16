@@ -39,13 +39,11 @@ With a passion for clean architecture and scalable design, I focus on building w
 ---
 
 ### Currently Learning
-- **Artificial Intelligence & Machine Learning (AI/ML):**  
-  Diving deeper into intelligent systems, exploring how models learn, predict, and make decisions.  
-  I’m especially interested in practical applications that combine creativity with automation.
 
-- **Cloud Computing:**  
-  Building and deploying scalable, cloud-native applications that balance performance, reliability, and cost.  
-  Learning how modern infrastructure shapes the way we develop, collaborate, and innovate.
+-  **Blockchain Smart Contracts & Security** — focusing on decentralized applications, smart contract auditing, and blockchain security.  
+-  **Linux Fundamentals** — learning system basics through the *Linux Foundation* course.  
+-  **Cybersecurity (TryHackMe)** — covering introduction, defensive security, and hands-on labs for real-world defense strategies.
+
 
 ---
 
@@ -56,7 +54,7 @@ With a passion for clean architecture and scalable design, I focus on building w
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KanyoroBebo&show_icons=true&theme=tokyonight&hide_border=true" alt="Kanyoro's GitHub stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanyoroBebo&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180em"/>
+  <img src="https://streak-stats.vercel.app?user=KanyoroBebo&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180em"/>
 </p>
 
 <p align="center">
