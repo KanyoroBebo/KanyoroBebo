@@ -76,6 +76,17 @@ With a passion for clean architecture and scalable design, I focus on building w
 ---
 
 ## Certifications and Badges
+### Blockchain Security & Development (Cyfrin Updraft)
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://profiles.cyfrin.io/u/kanyoro/achievements/solidity">
+      <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/solidity-101.png" width="100"/>
+      </a><br/>Solidity Smart Contract Development
+    </td>
+  </tr>
+</table>
+
 ### GitHub Copilot Learning Path
 
 <table align="center">
