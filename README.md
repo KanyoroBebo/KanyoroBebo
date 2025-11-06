@@ -252,12 +252,8 @@ With a passion for clean architecture and scalable design, I focus on building w
 ### Contact Me
 <a href="mailto:kevinkanyoro06@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email"/>
-</a>
-
-[kevinkanyoro06@gmail.com](mailto:kevinkanyoro06@gmail.com)  
-
-  <a href="https://www.linkedin.com/in/kevin-kanyoro-815601305/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  
-[linkedin.com/in/kevin-kanyoro-815601305](https://www.linkedin.com/in/kevin-kanyoro-815601305/)
+</a> <br/>
+<a href="https://www.linkedin.com/in/kevin-kanyoro-815601305/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+</a> <br/>
+Links in Profile
