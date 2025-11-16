@@ -2,9 +2,7 @@
 
 ---
 
-I’m a full-stack developer who enjoys turning ideas into functional, elegant solutions.  
-I love exploring how technology can make everyday experiences simpler and smarter.  
-With a passion for clean architecture and scalable design, I focus on building web applications that are efficient, reliable, and intuitive to use.  
+CS student | Full-stack Dev | Smart Contract Dev 
 
 ---
 
