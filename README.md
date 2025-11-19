@@ -82,6 +82,11 @@ CS student | Full-stack Dev | Smart Contract Dev
       <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/solidity-101.png" width="100"/>
       </a><br/>Solidity Smart Contract Development
     </td>
+    <td align="center" width="200">
+      <a href="https://profiles.cyfrin.io/u/kanyoro/achievements/blockchain-basics">
+      <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" width="100"/>
+      </a><br/>Blockchain Basics
+    </td>
   </tr>
 </table>
 
